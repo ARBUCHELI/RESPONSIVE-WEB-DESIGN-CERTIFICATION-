@@ -61,6 +61,12 @@ To pass the test on this challenge, change your h1 element's text to say "Hello 
 
 ```<h1>Hello World</h1>```
 
+OUTPUT:
+
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/1.jpg)
+
+## Adaptation as a repository: Andrés R. Bucheli.
+
 
 
 
