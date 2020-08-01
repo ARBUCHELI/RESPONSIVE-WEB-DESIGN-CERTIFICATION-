@@ -38,7 +38,7 @@ version of HTML is HTML5.
 
 This section introduces how to use HTML elements to give structure and meaning to your web content.
 
-## Basic HTML and HTML5: Say Hello to HTML ElementsPassed
+## 1. Basic HTML and HTML5: Say Hello to HTML ElementsPassed
 Welcome to freeCodeCamp's HTML coding challenges. These will walk you through web development step-by-step.
 First, you'll start by building a simple web page using HTML. You can edit code in your code editor, which is embedded into this web page.
 Do you see the code in your code editor that says ```<h1>Hello</h1>```? That's an HTML element.
@@ -65,7 +65,7 @@ OUTPUT:
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/1.jpg)
 
-## Basic HTML and HTML5: Headline with the h2 ElementPassed
+## 2. Basic HTML and HTML5: Headline with the h2 ElementPassed
 Over the next few lessons, we'll build an HTML5 cat photo web app piece-by-piece.
 The ```h2``` element you will be adding in this step will add a level two heading to the web page.
 
@@ -73,7 +73,7 @@ This element tells the browser about the structure of your website. ```h1``` ele
 
 Add an ```h2``` tag that says "CatPhotoApp" to create a second HTML element below your "Hello World" ```h1``` element.
 
-![image](
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/2.png)
 
 
 
