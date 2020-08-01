@@ -32,7 +32,6 @@ Becomes:
 
 ## Top level heading: Maybe a page title
 A paragraph of text. Some information we would like to communicate to the user. This can be as long or short as we would like.
-
   1. Number one on the list
   2. Number two
   3. A third item
