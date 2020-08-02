@@ -73,10 +73,10 @@ This element tells the browser about the structure of your website. ```h1``` ele
 
 Add an ```h2``` tag that says "CatPhotoApp" to create a second HTML element below your "Hello World" ```h1``` element.
 
-```<h1>Hello World</h1>
-   <h2>"CatPhotoApp"</h2>```
+```html
+<h1>Hello World</h1>
+<h2>"CatPhotoApp"</h2>html```
    
-
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/2.png)
 
 
@@ -91,6 +91,13 @@ You can create a paragraph element like this:
 Create a ```p``` element below your ```h2``` element, and give it the text "Hello Paragraph".
 
 <strong>Note:</strong> As a convention, all HTML tags are written in lowercase, for example ```<p></p>``` and not ```<P></P>```.
+
+```html
+<h1>Hello World</h1>
+<h2>CatPhotoApp</h2>
+<p>"Hello Paragraph"</p>html```
+
+
 
 
 
