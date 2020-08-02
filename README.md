@@ -118,7 +118,7 @@ Replace the text inside your ```p``` element with the first few words of this ki
 <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 ```
 
-![image]()
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/4.jpg)
 
 
 
