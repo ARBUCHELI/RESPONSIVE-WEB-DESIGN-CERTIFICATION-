@@ -76,7 +76,7 @@ Add an ```h2``` tag that says "CatPhotoApp" to create a second HTML element belo
 ```html
 <h1>Hello World</h1>
 <h2>"CatPhotoApp"</h2>
-html```
+```
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/2.png)
 
