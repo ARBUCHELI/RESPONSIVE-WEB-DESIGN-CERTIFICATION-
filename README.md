@@ -73,6 +73,10 @@ This element tells the browser about the structure of your website. ```h1``` ele
 
 Add an ```h2``` tag that says "CatPhotoApp" to create a second HTML element below your "Hello World" ```h1``` element.
 
+```<h1>Hello World</h1>
+   <h2>"CatPhotoApp"</h2>```
+   
+
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/2.png)
 
 
