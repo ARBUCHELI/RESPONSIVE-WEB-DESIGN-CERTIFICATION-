@@ -83,7 +83,7 @@ Add an ```h2``` tag that says "CatPhotoApp" to create a second HTML element belo
 
 ## 3. Basic HTML and HTML5: Inform with the Paragraph Element
 
-```p``` elements are the preferred element for paragraph text on websites. ```p`````` is short for "paragraph".
+```p``` elements are the preferred element for paragraph text on websites. ```p``` is short for "paragraph".
 
 You can create a paragraph element like this:
 
@@ -96,7 +96,8 @@ Create a ```p``` element below your ```h2``` element, and give it the text "Hell
 ```html
 <h1>Hello World</h1>
 <h2>CatPhotoApp</h2>
-<p>"Hello Paragraph"</p>html```
+<p>"Hello Paragraph"</p>
+```
 
 
 
