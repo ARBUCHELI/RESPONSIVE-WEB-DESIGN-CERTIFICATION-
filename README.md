@@ -156,7 +156,7 @@ Comment out your ```h1``` element and your ```p``` element, but not your ```h2``
 <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 -->
 ```
-
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/6.jpg)
 
 
 
