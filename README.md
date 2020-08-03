@@ -139,6 +139,26 @@ Uncomment your ```h1```, ```h2``` and ```p``` elements.
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/5.jpg)
 
+## 6. Basic HTML and HTML5: Comment out HTML
+
+Remember that in order to start a comment, you need to use ```<!--``` and to end a comment, you need to use ```-->```
+
+Here you'll need to end the comment before your ```h2``` element begins.
+
+Comment out your ```h1``` element and your ```p``` element, but not your ```h2``` element.
+
+```html
+<!--
+<h1>Hello World</h1>
+-->
+<h2>CatPhotoApp</h2>
+<!--
+<p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+-->
+```
+
+
+
 
 
 ## Adaptation as a repository: Andrés R. Bucheli.
