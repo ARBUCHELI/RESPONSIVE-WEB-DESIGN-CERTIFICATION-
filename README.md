@@ -247,7 +247,7 @@ Finally, don't forget to give your ```img``` element an ```alt``` attribute with
   <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 </main>
 ```
-
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/9.jpg)
 
 
 
