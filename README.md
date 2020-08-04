@@ -57,6 +57,8 @@ The only difference between opening and closing tags is the forward slash after 
 
 Each challenge has tests you can run at any time by clicking the "Run tests" button. When you pass all tests, you'll be prompted to submit your solution and go to the next coding challenge.
 
+________________________________________________________________________________________________________________________________________________________________________________
+
 To pass the test on this challenge, change your h1 element's text to say "Hello World".
 
 ```<h1>Hello World</h1>```
@@ -70,6 +72,8 @@ Over the next few lessons, we'll build an HTML5 cat photo web app piece-by-piece
 The ```h2``` element you will be adding in this step will add a level two heading to the web page.
 
 This element tells the browser about the structure of your website. ```h1``` elements are often used for main headings, while ```h2``` elements are generally used for subheadings. There are also ```h3```, ```h4```, ```h5``` and ```h6``` elements to indicate different levels of subheadings.
+
+________________________________________________________________________________________________________________________________________________________________________________
 
 Add an ```h2``` tag that says "CatPhotoApp" to create a second HTML element below your "Hello World" ```h1``` element.
 
@@ -88,6 +92,8 @@ Add an ```h2``` tag that says "CatPhotoApp" to create a second HTML element belo
 You can create a paragraph element like this:
 
 ```<p>I'm a p tag!</p>```
+
+________________________________________________________________________________________________________________________________________________________________________________
 
 Create a ```p``` element below your ```h2``` element, and give it the text "Hello Paragraph".
 
@@ -110,6 +116,8 @@ Lorem ipsum text has been used as placeholder text by typesetters since the 16th
 
 Well, 5 centuries is long enough. Since we're building a CatPhotoApp, let's use something called "kitty ipsum text".
 
+________________________________________________________________________________________________________________________________________________________________________________
+
 Replace the text inside your ```p``` element with the first few words of this kitty ipsum text: ```Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.```
 
 ```html
@@ -128,6 +136,8 @@ Commenting is also a convenient way to make code inactive without having to dele
 
 Comments in HTML start with ```<!--``` and end with a``` -->```
 
+________________________________________________________________________________________________________________________________________________________________________________
+
 Uncomment your ```h1```, ```h2``` and ```p``` elements.
 
 ```html
@@ -144,6 +154,8 @@ Uncomment your ```h1```, ```h2``` and ```p``` elements.
 Remember that in order to start a comment, you need to use ```<!--``` and to end a comment, you need to use ```-->```
 
 Here you'll need to end the comment before your ```h2``` element begins.
+
+________________________________________________________________________________________________________________________________________________________________________________
 
 Comment out your ```h1``` element and your ```p``` element, but not your ```h2``` element.
 
@@ -163,6 +175,8 @@ Comment out your ```h1``` element and your ```p``` element, but not your ```h2``
 Our phone doesn't have much vertical space.
 
 Let's remove the unnecessary elements so we can start building our CatPhotoApp.
+
+________________________________________________________________________________________________________________________________________________________________________________
 
 Delete your h1 element so we can simplify our view.
 
@@ -189,6 +203,8 @@ Example usage, a``` main``` element with two child elements nested inside it:
 ```
 <strong>Note:</strong> Many of the new HTML5 tags and their benefits are covered in the Applied Accessibility section.
 
+________________________________________________________________________________________________________________________________________________________________________________
+
 Create a second ```p``` element after the existing ```p```element with the following kitty ipsum text: ```Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.```
 
 Then, create a main element and nest the two p elements inside the main element.
@@ -202,7 +218,7 @@ Then, create a main element and nest the two p elements inside the main element.
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/8.jpg)
 
-## 9 Basic HTML and HTML5: Add Images to Your Website
+## 9. Basic HTML and HTML5: Add Images to Your Website
 
 You can add images to your website by using the ```img``` element, and point to a specific image's URL using the ```src``` attribute.
 
@@ -225,6 +241,7 @@ Let's add an ```alt``` attribute to our ```img``` example above:
 ```html
 <img src="https://www.your-image-source.com/your-image.jpg" alt="Author standing on a beach with two thumbs up.">
 `````````
+________________________________________________________________________________________________________________________________________________________________________________
 
 Let's try to add an image to our website:
 
@@ -248,7 +265,6 @@ Finally, don't forget to give your ```img``` element an ```alt``` attribute with
 </main>
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/9.jpg)
-
 
 
 
