@@ -267,6 +267,35 @@ Finally, don't forget to give your ```img``` element an ```alt``` attribute with
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/9.jpg)
 
 
+## 10. Basic HTML and HTML5: Link to External Pages with Anchor Elements
+
+You can use ```a``` (anchor) elements to link to content outside of your web page.
+
+```a``` elements need a destination web address called an ```href``` attribute. They also need anchor text. Here's an example:
+
+```html
+<a href="https://freecodecamp.org">this links to freecodecamp.org</a>
+```
+
+Then your browser will display the text <strong>"this links to freecodecamp.org"</strong> as a link you can click. And that link will take you to the web address <strong>https://www.freecodecamp.org.</strong>
+
+________________________________________________________________________________________________________________________________________________________________________________
+Create an ```a``` element that links to ```https://freecatphotoapp.com``` and has "cat photos" as its anchor text.
+
+```html
+<h2>CatPhotoApp</h2>
+<main>
+<a href="https://freecatphotoapp.com">cat photos</a>
+  <img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
+  <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+  <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+</main>
+```
+
+
+
+
+
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
