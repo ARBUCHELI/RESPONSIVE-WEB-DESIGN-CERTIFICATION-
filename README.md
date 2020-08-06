@@ -333,6 +333,7 @@ Then add an ```id``` attribute with a value of "footer" to the ```<footer>``` el
 
 <footer id="footer">Copyright Cat Photo App</footer>
 ```
+![img](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/11.jpg)
 
 
 
