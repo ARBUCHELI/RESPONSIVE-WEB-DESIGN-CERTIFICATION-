@@ -367,9 +367,7 @@ Now nest the existing ```a``` element within a new ```p``` element (just after t
   <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 </main>
 ```
-
-
-
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/12.jpg)
 
 
 
