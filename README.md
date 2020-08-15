@@ -374,13 +374,13 @@ Now nest the existing ```a``` element within a new ```p``` element (just after t
 
 Sometimes you want to add <code>a</code> elements to your website before you know where they will link.
 
-This is also handy when you're changing the behavior of a link using <code>JavaScript<code>, which we'll learn about later.
+This is also handy when you're changing the behavior of a link using <code>JavaScript</code>, which we'll learn about later.
   
 _________________________________________________________________________________________________________________________________________________________________________________
 
-The current value of the <code>href</code> attribute is a link that points to "https://freecatphotoapp.com". Replace the <code>href</code> attribute value with a <code>#<code>, also known as a hash symbol, to create a dead link.
+The current value of the <code>href</code> attribute is a link that points to "https://freecatphotoapp.com". Replace the <code>href</code> attribute value with a <code>#</code>, also known as a hash symbol, to create a dead link.
 
-For example: <code>href="#"<code>
+For example: <code>href="#"</code>
 
 ```html
 <h2>CatPhotoApp</h2>
@@ -393,6 +393,7 @@ For example: <code>href="#"<code>
   <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 </main>
 ```
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/13.jpg)
 
 
 
