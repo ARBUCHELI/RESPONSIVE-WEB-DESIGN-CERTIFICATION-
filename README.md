@@ -370,6 +370,33 @@ Now nest the existing ```a``` element within a new ```p``` element (just after t
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/12.jpg)
 
 
+## 13. Basic HTML and HTML5: Make Dead Links Using the Hash Symbol
+
+Sometimes you want to add <code>a</code> elements to your website before you know where they will link.
+
+This is also handy when you're changing the behavior of a link using <code>JavaScript<code>, which we'll learn about later.
+  
+_________________________________________________________________________________________________________________________________________________________________________________
+
+The current value of the <code>href</code> attribute is a link that points to "https://freecatphotoapp.com". Replace the <code>href</code> attribute value with a <code>#<code>, also known as a hash symbol, to create a dead link.
+
+For example: <code>href="#"<code>
+
+```html
+<h2>CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#" target="_blank">cat photos</a>.</p>
+
+  <img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
+
+  <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+  <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+</main>
+```
+
+
+
+
 
 
 ## Adaptation as a repository: Andrés R. Bucheli.
