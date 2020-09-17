@@ -65,7 +65,7 @@ To pass the test on this challenge, change your h1 element's text to say "Hello 
 
 OUTPUT:
 
-![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/1.jpg)
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/1.jpg)
 
 ## 2. Basic HTML and HTML5: Headline with the h2 ElementPassed
 Over the next few lessons, we'll build an HTML5 cat photo web app piece-by-piece.
@@ -82,7 +82,7 @@ Add an ```h2``` tag that says "CatPhotoApp" to create a second HTML element belo
 <h2>"CatPhotoApp"</h2>
 ```
 
-![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/2.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/2.png)
 
 
 ## 3. Basic HTML and HTML5: Inform with the Paragraph Element
