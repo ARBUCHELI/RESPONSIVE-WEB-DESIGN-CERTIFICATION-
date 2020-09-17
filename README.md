@@ -105,7 +105,7 @@ Create a ```p``` element below your ```h2``` element, and give it the text "Hell
 <p>"Hello Paragraph"</p>
 ```
 
-![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/3.jpg)
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/3.jpg)
 
 
 ## 4. Basic HTML and HTML5: Fill in the Blank with Placeholder Text
@@ -126,7 +126,7 @@ Replace the text inside your ```p``` element with the first few words of this ki
 <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 ```
 
-![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/4.jpg)
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/4.jpg)
 
 ## 5. Basic HTML and HTML5: Uncomment HTML
 
@@ -147,7 +147,7 @@ Uncomment your ```h1```, ```h2``` and ```p``` elements.
 
 <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 ```
-![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/5.jpg)
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/5.jpg)
 
 ## 6. Basic HTML and HTML5: Comment out HTML
 
@@ -168,7 +168,7 @@ Comment out your ```h1``` element and your ```p``` element, but not your ```h2``
 <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 -->
 ```
-![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/6.jpg)
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/6.jpg)
 
 ## 7. Basic HTML and HTML5: Delete HTML Elements
 
@@ -185,7 +185,7 @@ Delete your h1 element so we can simplify our view.
 
 <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 ```
-![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/7.jpg)
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/7.jpg)
 
 ## 8. Basic HTML and HTML5: Introduction to HTML5 Elements
 
@@ -216,7 +216,7 @@ Then, create a main element and nest the two p elements inside the main element.
 <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 </main>
 ```
-![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/8.jpg)
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/8.jpg)
 
 ## 9. Basic HTML and HTML5: Add Images to Your Website
 
@@ -264,7 +264,7 @@ Finally, don't forget to give your ```img``` element an ```alt``` attribute with
   <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 </main>
 ```
-![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/9.jpg)
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/9.jpg)
 
 
 ## 10. Basic HTML and HTML5: Link to External Pages with Anchor Elements
@@ -291,7 +291,7 @@ Create an ```a``` element that links to ```https://freecatphotoapp.com``` and ha
   <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 </main>
 ```
-![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/10.jpg)
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/10.jpg)
 
 ## 11. Basic HTML and HTML5: Link to Internal Sections of a Page with Anchor ElementsPassed
 
@@ -333,7 +333,7 @@ Then add an ```id``` attribute with a value of "footer" to the ```<footer>``` el
 
 <footer id="footer">Copyright Cat Photo App</footer>
 ```
-![img](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/11.jpg)
+![img](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/11.jpg)
 
 ## 12. Basic HTML and HTML5: Nest an Anchor Element within a Paragraph
 
@@ -367,7 +367,7 @@ Now nest the existing ```a``` element within a new ```p``` element (just after t
   <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 </main>
 ```
-![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/12.jpg)
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/12.jpg)
 
 
 ## 13. Basic HTML and HTML5: Make Dead Links Using the Hash Symbol
@@ -393,7 +393,7 @@ For example: <code>href="#"</code>
   <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 </main>
 ```
-![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/13.jpg)
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/13.jpg)
 
 
 
