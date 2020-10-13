@@ -396,7 +396,7 @@ For example: <code>href="#"</code>
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/13.jpg)
 
 
-## 14. Basic HTML and HTML5: Turn an Image into a LinkPassed
+## 14. Basic HTML and HTML5: Turn an Image into a Link
 
 You can make elements into links by nesting them within an <code>a</code> element.
 
@@ -429,7 +429,38 @@ Once you've done this, hover over your image with your cursor. Your cursor's nor
 
 
 
+## 15. Basic HTML and HTML5: Create a Bulleted Unordered List
 
+HTML has a special element for creating unordered lists, or bullet point style lists.
+
+Unordered lists start with an opening <code><ul></code> element, followed by any number of <code><li></code> elements. Finally, unordered lists close with a <code></ul></code>
+
+For example:
+
+```html
+<ul>
+  <li>milk</li>
+  <li>cheese</li>
+</ul>
+```
+would create a bullet point style list of "milk" and "cheese".
+
+Remove the last two <code>p</code> elements and create an unordered list of three things that cats love at the bottom of the page.
+
+```html
+<h2>CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
+
+  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+
+  <ul>
+    <li>Sleep</li>
+    <li>Scratch</li>
+    <li>Eat</li>
+  </ul>
+</main>
+```
 
 
 
