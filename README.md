@@ -445,6 +445,8 @@ For example:
 ```
 would create a bullet point style list of "milk" and "cheese".
 
+_________________________________________________________________________________________________________________________________________________________________________________
+
 Remove the last two <code>p</code> elements and create an unordered list of three things that cats love at the bottom of the page.
 
 ```html
@@ -461,7 +463,7 @@ Remove the last two <code>p</code> elements and create an unordered list of thre
   </ul>
 </main>
 ```
-
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/15.jpg)
 
 
 
