@@ -433,7 +433,7 @@ Once you've done this, hover over your image with your cursor. Your cursor's nor
 
 HTML has a special element for creating unordered lists, or bullet point style lists.
 
-Unordered lists start with an opening <code><ul></code> element, followed by any number of <code><li></code> elements. Finally, unordered lists close with a <code></ul></code>
+Unordered lists start with an opening ```html<ul>``` element, followed by any number of ```html<li>``` elements. Finally, unordered lists close with a ```html</ul>```
 
 For example:
 
