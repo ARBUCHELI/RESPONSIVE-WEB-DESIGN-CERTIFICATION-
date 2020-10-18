@@ -507,10 +507,7 @@ ________________________________________________________________________________
   </ol>
 </main>
 ```
-
-
-
-
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/16.jpg)
 
 
 ## Adaptation as a repository: Andrés R. Bucheli.
