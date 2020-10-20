@@ -510,6 +510,50 @@ ________________________________________________________________________________
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/16.jpg)
 
 
+
+## 17. Basic HTML and HTML5: Create a Text Field
+
+Now let's create a web form.
+
+<code>input</code> elements are a convenient way to get input from your user.
+
+You can create a text input like this:
+
+```<input type="text">```
+
+Note that <code>input</code> elements are self-closing.
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+Create an <code>input</code> element of type <code>text</code> below your lists.
+
+```html
+<h2>CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
+
+  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+
+  <p>Things cats love:</p>
+  <ul>
+    <li>cat nip</li>
+    <li>laser pointers</li>
+    <li>lasagna</li>
+  </ul>
+  <p>Top 3 things cats hate:</p>
+  <ol>
+    <li>flea treatment</li>
+    <li>thunder</li>
+    <li>other cats</li>
+  </ol>
+  <input type="text">
+
+</main>
+```
+
+![image]()
+
+
 ## Adaptation as a repository: Andrés R. Bucheli.
 
 
