@@ -551,7 +551,7 @@ Create an <code>input</code> element of type <code>text</code> below your lists.
 </main>
 ```
 
-![image]()
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/17.jpg)
 
 
 ## Adaptation as a repository: Andrés R. Bucheli.
