@@ -565,7 +565,7 @@ You can create placeholder text like so:
 
 <strong>Note:</strong> Remember that <code>input>/code> elements are self-closing.
 
-Set the <code>placeholder>/code> value of your text <code>input</code> to "cat photo URL".
+Set the <code>placeholder</code> value of your text <code>input</code> to "cat photo URL".
 
 ```html
 <h2>CatPhotoApp</h2>
@@ -590,7 +590,7 @@ Set the <code>placeholder>/code> value of your text <code>input</code> to "cat p
 </main>
 ```
 
-![image]()
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/18.jpg)
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
