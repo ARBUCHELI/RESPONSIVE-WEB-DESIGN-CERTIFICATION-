@@ -554,6 +554,44 @@ Create an <code>input</code> element of type <code>text</code> below your lists.
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/17.jpg)
 
 
+
+## 18. Basic HTML and HTML5: Add Placeholder Text to a Text Field
+
+Placeholder text is what is displayed in your <code>input</code> element before your user has inputted anything.
+
+You can create placeholder text like so:
+
+```<input type="text" placeholder="this is placeholder text">```
+
+<strong>Note:</strong> Remember that <code>input>/code> elements are self-closing.
+
+Set the <code>placeholder>/code> value of your text <code>input</code> to "cat photo URL".
+
+```html
+<h2>CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
+
+  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+
+  <p>Things cats love:</p>
+  <ul>
+    <li>cat nip</li>
+    <li>laser pointers</li>
+    <li>lasagna</li>
+  </ul>
+  <p>Top 3 things cats hate:</p>
+  <ol>
+    <li>flea treatment</li>
+    <li>thunder</li>
+    <li>other cats</li>
+  </ol>
+  <input type="text" placeholder="cat photo URL">
+</main>
+```
+
+![image]()
+
 ## Adaptation as a repository: Andrés R. Bucheli.
 
 
