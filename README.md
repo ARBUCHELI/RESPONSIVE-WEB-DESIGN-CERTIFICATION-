@@ -592,6 +592,44 @@ Set the <code>placeholder</code> value of your text <code>input</code> to "cat p
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/18.jpg)
 
+
+
+## 19. Basic HTML and HTML5:  Create a Form Element
+
+
+You can build web forms that actually submit data to a server using nothing more than pure HTML. You can do this by specifying an action on your <code>form</code> element.
+
+For example:
+
+```<form action="/url-where-you-want-to-submit-form-data"></form>```
+_________________________________________________________________________________________________________________________________________________________________________________
+
+Nest the existing input element inside a <code>form</code> element and assign ```"https://freecatphotoapp.com/submit-cat-photo"``` to the <code>action</code> attribute of the <code>form</code> element.
+
+```html
+<h2>CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
+
+  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+
+  <p>Things cats love:</p>
+  <ul>
+    <li>cat nip</li>
+    <li>laser pointers</li>
+    <li>lasagna</li>
+  </ul>
+  <p>Top 3 things cats hate:</p>
+  <ol>
+    <li>flea treatment</li>
+    <li>thunder</li>
+    <li>other cats</li>
+  </ol>
+  <form action="https://freecatphotoapp.com/submit-cat-photo" ><input type="text" placeholder="cat photo URL"></form>
+</main>
+```
+![image]()
+
 ## Adaptation as a repository: Andrés R. Bucheli.
 
 
