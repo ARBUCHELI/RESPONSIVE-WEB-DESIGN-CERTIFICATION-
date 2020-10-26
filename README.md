@@ -563,7 +563,7 @@ You can create placeholder text like so:
 
 ```<input type="text" placeholder="this is placeholder text">```
 
-<strong>Note:</strong> Remember that <code>input>/code> elements are self-closing.
+<strong>Note:</strong> Remember that <code>input</code> elements are self-closing.
 
 Set the <code>placeholder</code> value of your text <code>input</code> to "cat photo URL".
 
