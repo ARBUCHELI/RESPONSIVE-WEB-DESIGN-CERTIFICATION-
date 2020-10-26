@@ -628,7 +628,7 @@ Nest the existing input element inside a <code>form</code> element and assign ``
   <form action="https://freecatphotoapp.com/submit-cat-photo" ><input type="text" placeholder="cat photo URL"></form>
 </main>
 ```
-![image]()
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/19.jpg)
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
