@@ -596,7 +596,6 @@ Set the <code>placeholder</code> value of your text <code>input</code> to "cat p
 
 ## 19. Basic HTML and HTML5:  Create a Form Element
 
-
 You can build web forms that actually submit data to a server using nothing more than pure HTML. You can do this by specifying an action on your <code>form</code> element.
 
 For example:
@@ -629,6 +628,49 @@ Nest the existing input element inside a <code>form</code> element and assign ``
 </main>
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/19.jpg)
+
+
+
+## 20. Basic HTML and HTML5: Add a Submit Button to a Form
+
+Let's add a <code>submit</code> button to your form. Clicking this button will send the data from your form to the URL you specified with your form's <code>action</code> attribute.
+
+Here's an example submit button:
+
+```html
+<button type="submit">this button submits the form</button>
+```
+_________________________________________________________________________________________________________________________________________________________________________________
+
+Add a button as the last element of your <code>form</code> element with a type of <code>submit</code>, and "Submit" as its text.
+
+```html
+<h2>CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
+
+  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+
+  <p>Things cats love:</p>
+  <ul>
+    <li>cat nip</li>
+    <li>laser pointers</li>
+    <li>lasagna</li>
+  </ul>
+  <p>Top 3 things cats hate:</p>
+  <ol>
+    <li>flea treatment</li>
+    <li>thunder</li>
+    <li>other cats</li>
+  </ol>
+  <form action="https://freecatphotoapp.com/submit-cat-photo">
+    <input type="text" placeholder="cat photo URL">
+    <button type="submit">Submit</button>
+  </form>
+</main>
+```
+
+![image]()
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
