@@ -670,7 +670,7 @@ Add a button as the last element of your <code>form</code> element with a type o
 </main>
 ```
 
-![image]()
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/20.jpg)
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
