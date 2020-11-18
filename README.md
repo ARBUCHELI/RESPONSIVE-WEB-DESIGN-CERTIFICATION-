@@ -266,7 +266,6 @@ Finally, don't forget to give your ```img``` element an ```alt``` attribute with
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/9.jpg)
 
-
 ## 10. Basic HTML and HTML5: Link to External Pages with Anchor Elements
 
 You can use ```a``` (anchor) elements to link to content outside of your web page.
@@ -369,7 +368,6 @@ Now nest the existing ```a``` element within a new ```p``` element (just after t
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/12.jpg)
 
-
 ## 13. Basic HTML and HTML5: Make Dead Links Using the Hash Symbol
 
 Sometimes you want to add <code>a</code> elements to your website before you know where they will link.
@@ -394,7 +392,6 @@ For example: <code>href="#"</code>
 </main>
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/13.jpg)
-
 
 ## 14. Basic HTML and HTML5: Turn an Image into a Link
 
@@ -426,8 +423,6 @@ Once you've done this, hover over your image with your cursor. Your cursor's nor
 </main>
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/14.jpg)
-
-
 
 ## 15. Basic HTML and HTML5: Create a Bulleted Unordered List
 
@@ -464,8 +459,6 @@ Remove the last two <code>p</code> elements and create an unordered list of thre
 </main>
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/15.jpg)
-
-
 
 ## 16. Basic HTML and HTML5: Create an Ordered List
 
@@ -509,8 +502,6 @@ ________________________________________________________________________________
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/16.jpg)
 
-
-
 ## 17. Basic HTML and HTML5: Create a Text Field
 
 Now let's create a web form.
@@ -553,8 +544,6 @@ Create an <code>input</code> element of type <code>text</code> below your lists.
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/17.jpg)
 
-
-
 ## 18. Basic HTML and HTML5: Add Placeholder Text to a Text Field
 
 Placeholder text is what is displayed in your <code>input</code> element before your user has inputted anything.
@@ -592,8 +581,6 @@ Set the <code>placeholder</code> value of your text <code>input</code> to "cat p
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/18.jpg)
 
-
-
 ## 19. Basic HTML and HTML5:  Create a Form Element
 
 You can build web forms that actually submit data to a server using nothing more than pure HTML. You can do this by specifying an action on your <code>form</code> element.
@@ -628,8 +615,6 @@ Nest the existing input element inside a <code>form</code> element and assign ``
 </main>
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/19.jpg)
-
-
 
 ## 20. Basic HTML and HTML5: Add a Submit Button to a Form
 
@@ -671,6 +656,50 @@ Add a button as the last element of your <code>form</code> element with a type o
 ```
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/20.jpg)
+
+## 21. Basic HTML and HTML5: Use HTML5 to Require a FieldPassed
+
+You can require specific form fields so that your user will not be able to submit your form until he or she has filled them out.
+
+For example, if you wanted to make a text input field required, you can just add the attribute <code>required</code> within your input element, like this: 
+```html<input type="text" required>```
+_________________________________________________________________________________________________________________________________________________________________________________
+
+Make your text <code>input</code> a <code>required</code> field, so that your user can't submit the form without completing this field.
+
+Then try to submit the form without inputting any text. See how your HTML5 form notifies you that the field is required?
+
+```html
+<h2>CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
+
+  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+
+  <p>Things cats love:</p>
+  <ul>
+    <li>cat nip</li>
+    <li>laser pointers</li>
+    <li>lasagna</li>
+  </ul>
+  <p>Top 3 things cats hate:</p>
+  <ol>
+    <li>flea treatment</li>
+    <li>thunder</li>
+    <li>other cats</li>
+  </ol>
+  <form action="https://freecatphotoapp.com/submit-cat-photo">
+    <input type="text" required placeholder="cat photo URL">
+    <button type="submit">Submit</button>
+  </form>
+</main>
+```
+
+
+
+
+
+
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
