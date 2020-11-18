@@ -694,11 +694,7 @@ Then try to submit the form without inputting any text. See how your HTML5 form 
   </form>
 </main>
 ```
-
-
-
-
-
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/21.jpg)
 
 
 ## Adaptation as a repository: Andrés R. Bucheli.
