@@ -723,6 +723,8 @@ It is considered best practice to set a <code>for</code> attribute on the <code>
 
 Add a pair of radio buttons to your form, each nested in its own <code>label</code> element. One should have the option of <code>indoor</code> and the other should have the option of <code>outdoor</code>. Both should share the <code>name</code> attribute of <code>indoor-outdoor</code> to create a radio group.
 
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/22.jpg)
+
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
