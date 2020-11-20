@@ -696,6 +696,33 @@ Then try to submit the form without inputting any text. See how your HTML5 form 
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/21.jpg)
 
+# 22. Basic HTML and HTML5: Create a Set of Radio Buttons
+
+You can use radio buttons for questions where you want the user to only give you one answer out of multiple options.
+
+Radio buttons are a type of <code>input</code>.
+
+Each of your radio buttons can be nested within its own <code>label</code> element. By wrapping an <code>input</code> element inside of a <code>label</code> element it will automatically associate the radio button input with the label element surrounding it.
+
+All related radio buttons should have the same <code>name</code> attribute to create a radio button group. By creating a radio group, selecting any single radio button will automatically deselect the other buttons within the same group ensuring only one answer is provided by the user.
+
+Here's an example of a radio button:
+
+```html<label> 
+  <input type="radio" name="indoor-outdoor">Indoor 
+</label>
+```
+
+It is considered best practice to set a <code>for</code> attribute on the <code>label</code> element, with a value that matches the value of the <code>id</code> attribute of the <code>input</code> element. This allows assistive technologies to create a linked relationship between the label and the child <code>input</code> element. For example:
+
+```html
+<label for="indoor"> 
+  <input id="indoor" type="radio" name="indoor-outdoor">Indoor 
+</label>
+```
+
+Add a pair of radio buttons to your form, each nested in its own <code>label</code> element. One should have the option of <code>indoor</code> and the other should have the option of <code>outdoor</code>. Both should share the <code>name</code> attribute of <code>indoor-outdoor</code> to create a radio group.
+
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
