@@ -776,9 +776,7 @@ Add to your form a set of three checkboxes. Each checkbox should be nested withi
   </form>
 </main>
 ```
-
-
-
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/23.jpg)
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
