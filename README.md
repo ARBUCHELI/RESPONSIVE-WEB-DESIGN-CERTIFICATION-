@@ -725,6 +725,60 @@ Add a pair of radio buttons to your form, each nested in its own <code>label</co
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/22.jpg)
 
+# 23. Basic HTML and HTML5: Create a Set of Checkboxes
+
+Forms commonly use checkboxes for questions that may have more than one answer.
+
+Checkboxes are a type of <code>input</code>.
+
+Each of your checkboxes can be nested within its own <code>label</code> element. By wrapping an <code>input</code> element inside of a <code>label</code> element it will automatically associate the checkbox input with the label element surrounding it.
+
+All related checkbox inputs should have the same <code>name</code> attribute.
+
+It is considered best practice to explicitly define the relationship between a checkbox <code>input</code> and its corresponding <code>label</code> by setting the <code>for</code> attribute on the <code>label</code> element to match the <code>id</code> attribute of the associated <code>input</code> element.
+
+Here's an example of a checkbox:
+
+```html
+<label for="loving"><input id="loving" type="checkbox" name="personality"> Loving</label>
+```
+_________________________________________________________________________________________________________________________________________________________________________________
+
+Add to your form a set of three checkboxes. Each checkbox should be nested within its own <code>label</code> element. All three should share the <code>name</code> attribute of <code>personality</code>.
+
+```html
+<h2>CatPhotoApp</h2>
+<main>
+  <p>Click here to view more <a href="#">cat photos</a>.</p>
+
+  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+
+  <p>Things cats love:</p>
+  <ul>
+    <li>cat nip</li>
+    <li>laser pointers</li>
+    <li>lasagna</li>
+  </ul>
+  <p>Top 3 things cats hate:</p>
+  <ol>
+    <li>flea treatment</li>
+    <li>thunder</li>
+    <li>other cats</li>
+  </ol>
+  <form action="https://freecatphotoapp.com/submit-cat-photo">
+    <label for="indoor"><input id="indoor" type="radio" name="indoor-outdoor"> Indoor</label>
+    <label for="outdoor"><input id="outdoor" type="radio" name="indoor-outdoor"> Outdoor</label><br>
+    <input type="text" placeholder="cat photo URL" required>
+    <button type="submit">Submit</button>
+    <label for="grumpy"><input id="grumpy" type ="checkbox" name="personality">Grumpy</label>
+    <label for="snuggly"><input id="snuggly" type="checkbox" name="personality">Snuggly</label>
+    <label for="adorable"><input id="adorable" type="checkbox" name="personality">Adorable</label>
+  </form>
+</main>
+```
+
+
+
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
