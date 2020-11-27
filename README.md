@@ -778,8 +778,6 @@ Add to your form a set of three checkboxes. Each checkbox should be nested withi
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/23.jpg)
 
-# 24. 
-
 ## Adaptation as a repository: Andrés R. Bucheli.
 
 
