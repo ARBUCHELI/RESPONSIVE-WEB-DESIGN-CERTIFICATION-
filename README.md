@@ -831,8 +831,7 @@ Give each of the <code>radio</code> and <code>checkbox</code> inputs the <code>v
   </form>
 </main>
 ```
-
-
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/24.jpg)
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
