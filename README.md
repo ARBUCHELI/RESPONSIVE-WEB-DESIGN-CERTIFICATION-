@@ -696,7 +696,7 @@ Then try to submit the form without inputting any text. See how your HTML5 form 
 ```
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/21.jpg)
 
-# 22. Basic HTML and HTML5: Create a Set of Radio Buttons
+## 22. Basic HTML and HTML5: Create a Set of Radio Buttons
 
 You can use radio buttons for questions where you want the user to only give you one answer out of multiple options.
 
@@ -725,7 +725,7 @@ Add a pair of radio buttons to your form, each nested in its own <code>label</co
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/22.jpg)
 
-# 23. Basic HTML and HTML5: Create a Set of Checkboxes
+## 23. Basic HTML and HTML5: Create a Set of Checkboxes
 
 Forms commonly use checkboxes for questions that may have more than one answer.
 
