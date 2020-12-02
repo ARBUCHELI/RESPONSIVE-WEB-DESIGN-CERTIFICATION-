@@ -876,7 +876,7 @@ Set the first of your radio buttons and the first of your checkboxes to both be 
   </form>
 </main>
 ```
-
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/25.jpg)
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
