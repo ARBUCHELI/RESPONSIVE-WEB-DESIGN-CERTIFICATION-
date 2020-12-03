@@ -924,12 +924,7 @@ Hint: Try putting your opening <code>div</code> tag above your "Things cats love
   </form>
 </main>
 ```
-![image]()
-
-
-
-
-
+![image](https://raw.githubusercontent.com/ARBUCHELI/RESPONSIVE-WEB-DESIGN-CERTIFICATION-/master/Pictures/26.jpg)
 
 ## Adaptation as a repository: Andrés R. Bucheli.
 
